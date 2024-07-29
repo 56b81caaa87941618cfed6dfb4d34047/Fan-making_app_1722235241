@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable fan speed control slider\", \"checked\": true}, {\"feature\": \"Random fan design generator button\", \"checked\": true}, {\"feature\": \"Surprise me: Random fact about fans button\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Share your fan design on social media\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 97, \"time_taken\": \"0:00:03.991659\"}",
         "timestamp": "29072024071446",
         "message_id": "guest29072024071442"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want these buttons placed within the app's interface?\", \"option1\": \"At the bottom of the screen in a navigation bar\", \"option2\": \"Spread throughout the app based on the context of their use\"}, {\"question 2\": \"Should these buttons perform unique actions or lead to different sections within the app?\", \"option1\": \"Each button performs a unique action\", \"option2\": \"Each button leads to a different section of the app\"}], \"input_token_count\": 261, \"output_token_count\": 109, \"time_taken\": \"0:00:04.234937\"}",
+        "timestamp": "29072024071447",
+        "message_id": "guest29072024071442"
     }
 ]
