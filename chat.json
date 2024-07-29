@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background to have a gradient effect with red and green, or should these colors be used in separate sections of the app?\", \"option1\": \"Use a gradient effect combining red and green.\", \"option2\": \"Use red and green in separate sections.\"}, {\"question 2\": \"Should the change in background color apply to the entire app or specific pages?\", \"option1\": \"Change the background color for the entire app.\", \"option2\": \"Change the background color for specific pages only.\"}], \"input_token_count\": 260, \"output_token_count\": 118, \"time_taken\": \"0:00:03.588883\"}",
+        "message_id": "guest29072024071411",
+        "timestamp": "29072024071416",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Understood, I am working on changing the background color.",
         "message_id": "guest29072024071411",
