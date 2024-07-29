@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be static or collapsible?\", \"option1\": \"Static, always visible\", \"option2\": \"Collapsible, with a toggle button\"}, {\"question 2\": \"Where should the sidebar be positioned on the screen?\", \"option1\": \"On the left side\", \"option2\": \"On the right side\"}], \"input_token_count\": 264, \"output_token_count\": 85, \"time_taken\": \"0:00:02.864158\"}",
+        "message_id": "guest29072024071750",
+        "timestamp": "29072024071754",
+        "component_file_name": "blank_component_1722237450",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a sidebar with three navlinks.",
         "message_id": "guest29072024071750",
