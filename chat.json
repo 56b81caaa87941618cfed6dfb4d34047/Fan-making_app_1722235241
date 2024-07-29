@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the three random buttons, do you have specific functionalities in mind that these buttons should perform, or are they purely for visual design at this stage?\", \"option1\": \"They should have specific functionalities.\", \"option2\": \"They are just for visual design at this stage.\"}, {\"question 2\": \"Would you like the buttons to have unique styles or a uniform look to match the current design of the sidebar?\", \"option1\": \"They should have unique styles.\", \"option2\": \"They should have a uniform look to match the sidebar.\"}], \"input_token_count\": 383, \"output_token_count\": 126, \"time_taken\": \"0:00:05.905818\"}",
+        "message_id": "guest29072024071822",
+        "timestamp": "29072024071828",
+        "component_file_name": "blank_component_1722237450",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Adding three random buttons as requested.",
         "message_id": "guest29072024071822",
