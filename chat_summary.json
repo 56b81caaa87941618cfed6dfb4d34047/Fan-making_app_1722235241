@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want these buttons placed within the app's interface?\", \"option1\": \"At the bottom of the screen in a navigation bar\", \"option2\": \"Spread throughout the app based on the context of their use\"}, {\"question 2\": \"Should these buttons perform unique actions or lead to different sections within the app?\", \"option1\": \"Each button performs a unique action\", \"option2\": \"Each button leads to a different section of the app\"}], \"input_token_count\": 261, \"output_token_count\": 109, \"time_taken\": \"0:00:04.234937\"}",
         "timestamp": "29072024071447",
         "message_id": "guest29072024071442"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "timestamp": "29072024071751",
+        "message_id": "guest29072024071750"
     }
 ]
