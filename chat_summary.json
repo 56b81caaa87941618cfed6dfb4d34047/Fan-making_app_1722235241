@@ -42,5 +42,11 @@
         "content": "Understood, I'll add 3 random buttons to it.",
         "timestamp": "29072024071443",
         "message_id": "guest29072024071442"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable fan speed control slider\", \"checked\": true}, {\"feature\": \"Random fan design generator button\", \"checked\": true}, {\"feature\": \"Surprise me: Random fact about fans button\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Share your fan design on social media\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 97, \"time_taken\": \"0:00:03.991659\"}",
+        "timestamp": "29072024071446",
+        "message_id": "guest29072024071442"
     }
 ]
