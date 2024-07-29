@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn a conversation, the user instructed the AI to alter the background color, specifying a preference for red and green. The AI, acknowledging this request, asked for more details about the project to better understand how to implement the desired changes accurately.\nAI: Working on adding a sidebar with three navlinks.\nUser: add a sidebar with the navlinks home, about and contact\nAI: Understood, I'll add 3 random buttons to it.\nUser: add 3 differrent random button to it\nThis is the user's current request of changes to be made: add three random buttons"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn a conversation, the user instructed the AI to alter the background color, specifying a preference for red and green. The AI, acknowledging this request, asked for more details about the project to better understand how to implement the desired changes accurately.\nAI: Working on adding a sidebar with three navlinks.\nUser: add a sidebar with the navlinks home, about and contact\nAI: Understood, I'll add 3 random buttons to it.\nUser: add 3 differrent random button to it\nThis is the user's current request of changes to be made: add a sidebar with the navlinks home, about and contact"
     }
 ]
