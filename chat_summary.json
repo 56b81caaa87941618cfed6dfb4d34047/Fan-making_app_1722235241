@@ -36,5 +36,11 @@
         "content": "add 3 differrent random button to it",
         "timestamp": "29072024071442",
         "message_id": "guest29072024071442"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, I'll add 3 random buttons to it.",
+        "timestamp": "29072024071443",
+        "message_id": "guest29072024071442"
     }
 ]
