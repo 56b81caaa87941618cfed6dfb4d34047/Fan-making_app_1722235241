@@ -19,11 +19,9 @@ Vue.component("blank_component_1722237450", {
             <div class="grid">
                 <div id="sidebar" class="flex-1 bg-white text-black h-screen w-64 p-4 shadow-lg">
                     <nav>
-                        <ul>
-                            <li class="mb-4"><a href="#" class="flex items-center text-gray-800 hover:text-purple-600"><i class='bx bx-home mr-2 text-purple-500'></i> Home</a></li>
-                            <li class="mb-4"><a href="#" class="flex items-center text-gray-800 hover:text-purple-600"><i class='bx bx-info-circle mr-2 text-purple-500'></i> About</a></li>
-                            <li class="mb-4"><a href="#" class="flex items-center text-gray-800 hover:text-purple-600"><i class='bx bx-envelope mr-2 text-purple-500'></i> Contact</a></li>
-                        </ul>
+                            <li class="mb-4"><button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"><i class='bx bx-rocket mr-2'></i>Launch</button></li>
+                            <li class="mb-4"><button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"><i class='bx bx-shuffle mr-2'></i>Randomize</button></li>
+                            <li class="mb-4"><button class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded"><i class='bx bx-magic-wand mr-2'></i>Transform</button></li>
                     </nav>
                 </div>
                 <section id="blank-section" class="bg-white flex-1">
