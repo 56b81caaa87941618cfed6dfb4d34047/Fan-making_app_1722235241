@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate a dynamic search bar in the sidebar for quick navigation\", \"checked\": true}, {\"feature\": \"Include a 'Frequently Asked Questions (FAQ)' section link in the sidebar\", \"checked\": false}, {\"feature\": \"Add social media icons (Facebook, Twitter, Instagram) in the sidebar for easy access\", \"checked\": true}, {\"feature\": \"Implement a 'Latest News' feed section in the sidebar for updates and announcements\", \"checked\": false}, {\"feature\": \"Incorporate a user profile icon with dropdown options for account settings, preferences, and logout\", \"checked\": true}, {\"feature\": \"Add a floating 'Feedback' button in the sidebar for users to easily report issues or suggest improvements\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 157, \"time_taken\": \"0:00:06.594940\"}",
+        "message_id": "guest29072024071750",
+        "timestamp": "29072024071758",
+        "component_file_name": "blank_component_1722237450",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be static or collapsible?\", \"option1\": \"Static, always visible\", \"option2\": \"Collapsible, with a toggle button\"}, {\"question 2\": \"Where should the sidebar be positioned on the screen?\", \"option1\": \"On the left side\", \"option2\": \"On the right side\"}], \"input_token_count\": 264, \"output_token_count\": 85, \"time_taken\": \"0:00:02.864158\"}",
+        "message_id": "guest29072024071750",
+        "timestamp": "29072024071754",
+        "component_file_name": "blank_component_1722237450",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a sidebar with three navlinks.",
         "message_id": "guest29072024071750",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Understood, I am working on changing the background color.",
-        "message_id": "guest29072024071411",
-        "timestamp": "29072024071413",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "change the background color to red and green",
-        "message_id": "guest29072024071411",
-        "timestamp": "29072024071412",
-        "component_file_name": "simple_cta_component_1722235242",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "29072024071751",
+        "content": "In a conversation, the user instructed the AI to alter the background color, specifying a preference for red and green. The AI, acknowledging this request, asked for more details about the project to better understand how to implement the desired changes accurately.",
+        "timestamp": "29072024071758",
         "message_id": "guest29072024071750"
     }
 ]
