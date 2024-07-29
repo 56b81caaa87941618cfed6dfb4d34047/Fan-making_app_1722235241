@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722235242",
+        "role": "chat_acknowledge",
+        "content": "Working on adding a sidebar with three navlinks.",
+        "message_id": "guest29072024071750",
+        "timestamp": "29072024071751",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "change the background color to red and green",
-        "timestamp": "29072024071412",
-        "message_id": "guest29072024071411"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Understood, I am working on changing the background color.",
-        "timestamp": "29072024071413",
-        "message_id": "guest29072024071411"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background to have a gradient effect with red and green, or should these colors be used in separate sections of the app?\", \"option1\": \"Use a gradient effect combining red and green.\", \"option2\": \"Use red and green in separate sections.\"}, {\"question 2\": \"Should the change in background color apply to the entire app or specific pages?\", \"option1\": \"Change the background color for the entire app.\", \"option2\": \"Change the background color for specific pages only.\"}], \"input_token_count\": 260, \"output_token_count\": 118, \"time_taken\": \"0:00:03.588883\"}",
-        "timestamp": "29072024071416",
-        "message_id": "guest29072024071411"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a theme selection feature allowing users to choose from various background colors including red and green\", \"checked\": true}, {\"feature\": \"Add a 'Dark Mode' toggle for reducing eye strain during night-time app usage\", \"checked\": false}, {\"feature\": \"Incorporate a 'Color Blind Mode' to enhance accessibility for color-blind users, adjusting colors for better differentiation\", \"checked\": false}, {\"feature\": \"Implement dynamic background effects that change with interactions or time of day\", \"checked\": false}, {\"feature\": \"Allow custom background uploads for users to personalize their app experience with their own images\", \"checked\": false}, {\"feature\": \"Introduce animated backgrounds for premium users as an exclusive feature to enhance visual appeal\", \"checked\": false}], \"input_token_count\": 214, \"output_token_count\": 158, \"time_taken\": \"0:00:05.672982\"}",
-        "timestamp": "29072024071418",
-        "message_id": "guest29072024071411"
-    },
-    {
-        "role": "user",
-        "content": "add 3 differrent random button to it",
-        "timestamp": "29072024071442",
-        "message_id": "guest29072024071442"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Understood, I'll add 3 random buttons to it.",
-        "timestamp": "29072024071443",
-        "message_id": "guest29072024071442"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable fan speed control slider\", \"checked\": true}, {\"feature\": \"Random fan design generator button\", \"checked\": true}, {\"feature\": \"Surprise me: Random fact about fans button\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Share your fan design on social media\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 97, \"time_taken\": \"0:00:03.991659\"}",
-        "timestamp": "29072024071446",
-        "message_id": "guest29072024071442"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want these buttons placed within the app's interface?\", \"option1\": \"At the bottom of the screen in a navigation bar\", \"option2\": \"Spread throughout the app based on the context of their use\"}, {\"question 2\": \"Should these buttons perform unique actions or lead to different sections within the app?\", \"option1\": \"Each button performs a unique action\", \"option2\": \"Each button leads to a different section of the app\"}], \"input_token_count\": 261, \"output_token_count\": 109, \"time_taken\": \"0:00:04.234937\"}",
-        "timestamp": "29072024071447",
-        "message_id": "guest29072024071442"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest29072024071750",
+        "timestamp": "29072024071751",
+        "component_file_name": "blank_component_1722237450",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want these buttons placed within the app's interface?\", \"option1\": \"At the bottom of the screen in a navigation bar\", \"option2\": \"Spread throughout the app based on the context of their use\"}, {\"question 2\": \"Should these buttons perform unique actions or lead to different sections within the app?\", \"option1\": \"Each button performs a unique action\", \"option2\": \"Each button leads to a different section of the app\"}], \"input_token_count\": 261, \"output_token_count\": 109, \"time_taken\": \"0:00:04.234937\"}",
+        "message_id": "guest29072024071442",
+        "timestamp": "29072024071447",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable fan speed control slider\", \"checked\": true}, {\"feature\": \"Random fan design generator button\", \"checked\": true}, {\"feature\": \"Surprise me: Random fact about fans button\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Share your fan design on social media\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 97, \"time_taken\": \"0:00:03.991659\"}",
+        "message_id": "guest29072024071442",
+        "timestamp": "29072024071446",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, I'll add 3 random buttons to it.",
+        "message_id": "guest29072024071442",
+        "timestamp": "29072024071443",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add 3 differrent random button to it",
+        "message_id": "guest29072024071442",
+        "timestamp": "29072024071442",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a theme selection feature allowing users to choose from various background colors including red and green\", \"checked\": true}, {\"feature\": \"Add a 'Dark Mode' toggle for reducing eye strain during night-time app usage\", \"checked\": false}, {\"feature\": \"Incorporate a 'Color Blind Mode' to enhance accessibility for color-blind users, adjusting colors for better differentiation\", \"checked\": false}, {\"feature\": \"Implement dynamic background effects that change with interactions or time of day\", \"checked\": false}, {\"feature\": \"Allow custom background uploads for users to personalize their app experience with their own images\", \"checked\": false}, {\"feature\": \"Introduce animated backgrounds for premium users as an exclusive feature to enhance visual appeal\", \"checked\": false}], \"input_token_count\": 214, \"output_token_count\": 158, \"time_taken\": \"0:00:05.672982\"}",
+        "message_id": "guest29072024071411",
+        "timestamp": "29072024071418",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background to have a gradient effect with red and green, or should these colors be used in separate sections of the app?\", \"option1\": \"Use a gradient effect combining red and green.\", \"option2\": \"Use red and green in separate sections.\"}, {\"question 2\": \"Should the change in background color apply to the entire app or specific pages?\", \"option1\": \"Change the background color for the entire app.\", \"option2\": \"Change the background color for specific pages only.\"}], \"input_token_count\": 260, \"output_token_count\": 118, \"time_taken\": \"0:00:03.588883\"}",
+        "message_id": "guest29072024071411",
+        "timestamp": "29072024071416",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, I am working on changing the background color.",
+        "message_id": "guest29072024071411",
+        "timestamp": "29072024071413",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the background color to red and green",
+        "message_id": "guest29072024071411",
+        "timestamp": "29072024071412",
+        "component_file_name": "simple_cta_component_1722235242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "29072024071751",
         "message_id": "guest29072024071750"
     }
